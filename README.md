@@ -1,5 +1,5 @@
 # VoicevoxSpeeching
 
 ```
-https://github.com/satoshishi/VoicevoxSpeeching.git?path=voicevox-speeching/Assets/Runtimes
+https://github.com/satoshishi/VoicevoxSpeeching.git?path=vocievox-speeching/Assets/Runtimes
 ```
