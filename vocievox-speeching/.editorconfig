@@ -70,7 +70,7 @@ dotnet_diagnostic.SA1129.severity = none
 dotnet_diagnostic.IDE0010.severity = warning
 
 # Ignore analyzers
-[{Assets/Plugins,Assets/Resources,obj}/{*.cs,**/*.cs}]
+[{Assets/Plugins,Assets/Resources,obj,Assets/Runtimes/Utilities/Scripts/JsonDeserializer.cs}/{*.cs,**/*.cs}]
 generated_code = true
 dotnet_diagnostic.CS0108.severity = none
 dotnet_diagnostic.CS8019.severity = none

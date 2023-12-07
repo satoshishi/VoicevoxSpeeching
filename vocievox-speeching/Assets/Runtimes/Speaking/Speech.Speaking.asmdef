@@ -1,0 +1,18 @@
+{
+    "name": "Speech.Speaking",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a25a269ffb6594e53bdceb031b787161",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:82f0a3f9446eb44ce9aaee3970cdfc21"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
