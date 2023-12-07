@@ -51,5 +51,10 @@
         "temp/": true,
         "Temp/": true
     },
+    "csharp.format.enable": false,
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.csharp": true
+    },
     "dotnet.defaultSolution": "vocievox-speeching.sln"
 }
